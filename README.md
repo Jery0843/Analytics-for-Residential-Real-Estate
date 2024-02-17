@@ -6,7 +6,7 @@ This project focuses on predictive analytics for residential real estate in King
 
 ## Dataset
 
-The primary dataset used for this project is the King County House Sales dataset, sourced from [source_name]. It contains detailed information about residential properties sold in King County, including features such as square footage, number of bedrooms and bathrooms, location, and sale price.
+The primary dataset used for this project is the King County House Sales dataset, sourced from IBM. It contains detailed information about residential properties sold in King County, including features such as square footage, number of bedrooms and bathrooms, location, and sale price.
 
 ## Methodology
 
@@ -22,7 +22,7 @@ Our approach involves several key steps:
 
 ## Results
 
-The predictive models developed in this project demonstrate promising performance in predicting housing prices in King County. The models have been evaluated using rigorous validation techniques and show [performance_metrics]. Insights gained from these models include [insights].
+The predictive models developed in this project demonstrate promising performance in predicting housing prices in King County. The models have been evaluated using rigorous validation techniques.
 
 ## Usage
 
